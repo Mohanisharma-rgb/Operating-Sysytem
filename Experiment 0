@@ -1,0 +1,17 @@
+DATE: 17-8-26
+EXP. No. 0
+
+Experiment 0: Installation of Virtual Box and Ubuntu Os
+
+Procedure
+1) Download Virtual Box from its official website
+2) Run the installer and follow the setup wizard
+3) Click install and complete the installation
+4) Download the ubuntu ISO file
+5) Open Virtual Box and Click new
+6) Create a Vm, name it and select Iso file
+7) Allocate RAM, CPU and storage
+8) Start the virtual Machine and select install
+9) Follow the on screen instructions
+10) Create a username and password
+11) Complete the installation and restart the virtual machine
